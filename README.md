@@ -8,4 +8,12 @@ Redmine: BOM付きCSV
 ------------
 
     % script/plugin install git://github.com/tmtm/redmine_csv_with_bom
+    
+Update: 1/24/2013
+------------
+The original version doesn't work with Redmine 2.2.0 (and may be older versions)
+Updated version works.
+
+    
+
 
